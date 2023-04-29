@@ -1,6 +1,16 @@
-# Final Project - Visualizing Impact of Climate Change on Peak Flowers
 
-## Team Members
+# We plan to extend the work of this Visualization project
+Managed by Aji John @uw.edu  (Post-doctoral researcher), and we plan to add the below features
+
+- [x] Fork the repository
+- [ ] Add data for rest of the years
+- [ ] Support for multiple years (selecting upto 3 differemt years)
+- [ ] Add more species (upto 20 ?)
+- [ ] Publish the site alongside MeadoWatch
+
+## Original Project - Visualizing Impact of Climate Change on Peak Flowers
+
+## Original Team Members
 
 - Rachel Li  ryli@uw.edu
 - Xiaojing Zhu  xiaojzhu@uw.edu
