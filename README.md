@@ -1,6 +1,6 @@
 
 # We plan to extend the work of this Visualization project
-Managed by Aji John @uw.edu  (Post-doctoral researcher), and we plan to add the below features
+Managed by Aji John @uw.edu  (Post-doctoral researcher @UW), and we plan to add the below features
 
 - [x] Fork the repository
 - [ ] Add data for rest of the years
