@@ -48,7 +48,7 @@ We develop an animated narrative visualization for the seasonal timing of flower
 
 ### Running Instructions
 
-Access our visualization at [http://cse512-16s.github.io/fp-racheryl-xiaojzhu-dennis418szsy/](http://cse512-16s.github.io/fp-racheryl-xiaojzhu-dennis418szsy/) or download this repository and run `python -m SimpleHTTPServer 8000` and access this from http://localhost:8000/.
+Access our visualization at [http://cse512-16s.github.io/fp-racheryl-xiaojzhu-dennis418szsy/](http://cse512-16s.github.io/fp-racheryl-xiaojzhu-dennis418szsy/) or download this repository and run `python -m http.server 8000` and access this from http://localhost:8000/.
 
 
 
